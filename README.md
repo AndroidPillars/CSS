@@ -18,7 +18,7 @@ Internal CSS:
 
 Format: 
 
-style
+-<style>
 
       body{
         background-color: #ff6666;
@@ -35,6 +35,6 @@ style
         width: 5%;
       }
 
-  /style
+ -<style>
 
 
