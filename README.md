@@ -11,3 +11,9 @@ Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesti
 Inline CSS: 
 
 Format: body style="background-color: #ff6666;"
+
+Internal CSS:
+
+Format: 
+
+
