@@ -8,6 +8,8 @@ Referrence: colorhunt.co (For Color picker)
 
 Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
 
+keywords For Search: border-style css mdn, css default values
+
 Inline CSS: 
 
 Format: body style="background-color: #ff6666;"
