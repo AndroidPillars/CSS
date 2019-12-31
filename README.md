@@ -18,4 +18,23 @@ Internal CSS:
 
 Format: 
 
+style
+
+      body{
+        background-color: #ff6666;
+      }
+
+      hr{
+        /* background-color: white; */
+        /* border-style: dotted none none; */
+        border-style: none;
+        border-top-style: dotted;
+        border-color:grey;
+        border-width: 5px;
+        height: 0px;
+        width: 5%;
+      }
+
+  /style
+
 
