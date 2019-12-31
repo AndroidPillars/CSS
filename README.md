@@ -36,5 +36,9 @@ Format:
       }
 
  -<style>
+      
+ External CSS:
+ 
+ Similar to Internal CSS but have to seperate the file.
 
 
