@@ -10,11 +10,11 @@ Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesti
 
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
 
-Inline CSS: 
+# Inline CSS: 
 
 Format: body style="background-color: #ff6666;"
 
-Internal CSS:
+# Internal CSS:
 
 Format: 
 
@@ -35,17 +35,17 @@ Format:
         width: 5%;
       }
       
- External CSS:
+ # External CSS:
  
  Similar to Internal CSS but have to seperate the file.
  
- CSS Syntax:
+ # CSS Syntax:
  
  selector { property : value; }
  
  selector -> who, property -> what, value -> How
  
- CSS Selectors:
+ # CSS Selectors:
  
  Example:
  
