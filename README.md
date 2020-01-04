@@ -66,6 +66,14 @@ Format:
   #background1{
    background-color: blue;
       }
+      
+ # Pseudo Class:
+ 
+ Example:
+ 
+  - img:hover{
+    background-color: blue;
+    }
  
  
   
