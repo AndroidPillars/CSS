@@ -45,8 +45,6 @@ Format:
  
  selector { property : value; }
  
- selector -> who
- property -> what
- value -> How
+ selector -> who, property -> what, value -> How
 
 
