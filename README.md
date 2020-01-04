@@ -18,7 +18,7 @@ Internal CSS:
 
 Format: 
 
--<style>
+- style
 
       body{
         background-color: #ff6666;
@@ -34,8 +34,6 @@ Format:
         height: 0px;
         width: 5%;
       }
-
- -<style>
       
  External CSS:
  
