@@ -40,5 +40,13 @@ Format:
  External CSS:
  
  Similar to Internal CSS but have to seperate the file.
+ 
+ CSS Syntax:
+ 
+ selector { property : value; }
+ 
+ selector -> who
+ property -> what
+ value -> How
 
 
