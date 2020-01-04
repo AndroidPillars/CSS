@@ -54,6 +54,20 @@ Format:
   .background1{
    background-color: blue;
       }
+      
+ # ID Selectors:
+ 
+ Example:
+ 
+  - img id="background1" src="images/android.png" alt="Image Not Loading"
+   
+  #background1{
+   background-color: blue;
+      }
+ 
+ 
+  
+  
  
 
 
