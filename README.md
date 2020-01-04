@@ -51,7 +51,7 @@ Format:
  
  Example:
  
-   -<img class="background1" src="images/android.png" alt="Image Not Loading">
+   -img class="background1"
    
   .background1{
    background-color: blue;
