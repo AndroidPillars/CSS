@@ -39,6 +39,8 @@ Format:
  
  Similar to Internal CSS but have to seperate the file.
  
+ - link rel="stylesheet" href="css/styles.css"
+ 
  # CSS Syntax:
  
  selector { property : value; }
