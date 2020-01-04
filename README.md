@@ -4,7 +4,7 @@ CSS - Cascading Style Sheet
 
 Types: Inline CSS, Internal CSS, External CSS
 
-Referrence: colorhunt.co (For Color picker)
+Referrence: colorhunt.co (For Color picker), https://emojipedia.org/ (for emoji icons based on platform)
 
 Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
 
@@ -46,5 +46,7 @@ Format:
  selector { property : value; }
  
  selector -> who, property -> what, value -> How
+ 
+ 
 
 
