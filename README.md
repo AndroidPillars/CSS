@@ -17,6 +17,31 @@
 - Can be extended with Sass/Less.
 - Types: Inline CSS, Internal CSS and  External CSS.
 
+# Web Browser
+
+- Web Browser is used to view the HTML.
+- Google Chrome
+- Mozilla Firefox
+- Safari
+- Edge
+- IE(Please Don't use this)
+
+# Text Editor
+
+- Text Editor is used to write the HTML.
+- Sublime Text
+- Atom.io
+- Visual Studio Code
+- Brackets
+- Notepad++(Windows)
+- TextMate(Mac)
+
+# IDE
+
+- Codepen.io
+- atom.io
+- https://code.visualstudio.com/
+
 # Inline CSS: 
 
 - Directly in the html element.
@@ -29,22 +54,28 @@
 
 - Using ```<style>``` tags with in a single document.
 
-- style
+```ruby
+<!DOCTYPE html>
+<html>
 
-      body{
-        background-color: #ff6666;
-      }
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+    <style>
+        body {
+            background-color: blue;
+        }
+    </style>
+</head>
 
-      hr{
-        /* background-color: white; */
-        /* border-style: dotted none none; */
-        border-style: none;
-        border-top-style: dotted;
-        border-color:grey;
-        border-width: 5px;
-        height: 0px;
-        width: 5%;
-      }
+<body>
+    <h1>Hello World!!!</h1>
+
+</body>
+
+</html>
+```
       
  # External CSS:
  
