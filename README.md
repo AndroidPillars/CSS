@@ -17,17 +17,17 @@
 - Can be extended with Sass/Less.
 - Types: Inline CSS, Internal CSS and  External CSS.
 
+# Inline CSS: 
+
+- Directly in the html element.
+- It's not the recommended way.
 ```ruby
 <body style= "background-color: blue;">
 ```
 
-# Inline CSS: 
-
-Format: body style="background-color: #ff6666;"
-
 # Internal CSS:
 
-Format: 
+- Using ```<style>``` tags with in a single document.
 
 - style
 
@@ -48,7 +48,7 @@ Format:
       
  # External CSS:
  
- Similar to Internal CSS but have to seperate the file.
+ - Similar to Internal CSS but have to seperate by linking sn externsl.css file.
  
  - link rel="stylesheet" href="css/styles.css"
  
