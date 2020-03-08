@@ -79,10 +79,36 @@
       
  # External CSS:
  
- - Similar to Internal CSS but have to seperate by linking sn externsl.css file.
+ - Similar to Internal CSS but have to seperate by linking an external.css file.
  
- - link rel="stylesheet" href="css/styles.css"
- 
+ __In index.html,__
+ ```ruby
+ <!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Home Page</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <h1>Hello World!!!</h1>
+
+</body>
+
+</html>
+```
+- Create a folder css and add a file name with style.css
+
+__In style.css__
+```ruby
+body {
+    background-color: blue;
+}
+```
+
  # CSS Syntax:
  
  selector { property : value; }
