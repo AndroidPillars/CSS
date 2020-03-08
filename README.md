@@ -1,14 +1,22 @@
-# HTML-CSS-Beginner
+# CSS
 
-CSS - Cascading Style Sheet
+# HTML Drawbacks
 
-Types: Inline CSS, Internal CSS, External CSS
+- In order to display image and text side by side we have to use tables.
+- We have to write lot of code to do that simple thing.
+- Also, it is very easy to make syntax errors.
+- To Overcome this, they introduced Cascading Style Sheets (CSS).
 
-Referrence: colorhunt.co (For Color picker), https://emojipedia.org/ (for emoji icons based on platform)
+# CSS 
 
-Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
+- Cascading Style Sheet
+- This is called a style sheet or a style language in the sense that it can't do anything by itself.
+- It's only purpose in life is to style markup language.
+- Types: Inline CSS, Internal CSS and  External CSS.
 
-keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
+```ruby
+<body style= "background-color: blue;">
+```
 
 # Inline CSS: 
 
@@ -76,7 +84,12 @@ Format:
     }
  
  
-  
+ Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
+
+keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
+
+ 
+ Referrence: colorhunt.co (For Color picker), https://emojipedia.org/ (for emoji icons based on platform)  
   
  
 
