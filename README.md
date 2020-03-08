@@ -10,8 +10,11 @@
 # CSS 
 
 - Cascading Style Sheet
+- It is not a programming language.
 - This is called a style sheet or a style language in the sense that it can't do anything by itself.
 - It's only purpose in life is to style markup language.
+- It is used for website layout and design.
+- Can be extended with Sass/Less.
 - Types: Inline CSS, Internal CSS and  External CSS.
 
 ```ruby
@@ -89,7 +92,10 @@ Format:
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
 
  
- Referrence: colorhunt.co (For Color picker), https://emojipedia.org/ (for emoji icons based on platform)  
+ # Tools Reference
+ 
+ - colorhunt.co (For Color picker)
+ - https://emojipedia.org/ (for emoji icons based on platform)  
   
  
 
