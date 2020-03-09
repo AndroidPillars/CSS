@@ -202,6 +202,7 @@ __In style.css__
 
 - use class when you want to apply the same style to a group of related items.
 - In class, We can also use two classes to the same HTML element.
+
 __In index.html__
 
 ```ruby
