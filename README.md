@@ -418,6 +418,18 @@ span in HTML
 
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
 
+# Plugins
+
+- HTML Boilerplate
+- Prettier
+- Material Icon Theme
+
+# Documentation References
+
+- https://www.w3schools.com/css/
+- https://developer.mozilla.org/en-US/docs/Web/CSS
+- https://docs.emmet.io/cheat-sheet/
+- https://devdocs.io/css/
  
  # Tools Reference
  
@@ -425,8 +437,3 @@ keywords For Search: border-style css mdn, css default values, devdocs.io/css/he
  - https://emojipedia.org/ (for emoji icons based on platform)
  - https://www.favicon.cc/ (for generating fav.icon)
  - http://pesticide.io/ -> Installation -> chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow  Access to file URLs
- 
-  
- 
-
-
