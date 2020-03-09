@@ -363,6 +363,61 @@ body {
 }
 ```
 
+# Reference
+
+- https://www.favicon.cc/
+
+
+# Div
+
+- The div is a special element that allows us to divide our content up on our website so that we can structure each div seperately.
+- In other words, The div stands for content division element and it basically allows you to split up or
+boxes so that you can affect the layout of each box seperately.
+```ruby
+<div>
+ <h1>Android</h1>
+ <p>Android was developed by Google</p>
+</div>
+```
+
+# Display Property
+
+- Block
+- Inline
+- Inline-Block
+- None
+
+# Common Block Elements
+
+- Paragraph
+- Headers
+- Divisions
+- Lists and List Items
+- Forms
+
+# Common Inline Elements
+
+- Spans
+- Images
+- Anchors
+
+- We cannot set the width for Inline elements
+
+# Inline Block
+# none
+
+# CSS Static and Relative positioning
+
+# Position
+- Static
+- Relative
+- Absolute
+- Fixed
+
+
+Remember -> border -> solid
+span in HTML
+
 
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
 
