@@ -297,7 +297,72 @@ p::first-line {
 </html>
 ```
 
- Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
+# Box Model
+
+# Some Shorthand Properties
+
+# Margin
+
+```ruby
+P{
+    margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+}
+```
+```ruby
+P{
+    margin: 5px 10px 5px 10px; /* top, right, bottom, left */
+}
+```
+```ruby
+P{
+    margin: 5px 10px; /* top + bottom, right + left  */
+}
+```
+```ruby
+P{
+    margin: 5px 20px 10px; /* top, right + left, bottom   */
+}
+```
+
+# font
+
+```ruby
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+}
+```
+# Border
+
+```ruby
+.box{
+    border-right: 5px maroon solid;
+    border-left: 5px maroon solid;
+    border-top: 5px  maroon solid;
+    border-bottom: 5px  maroon solid;
+}
+```
+```ruby
+.box{
+    border: 5px maroon solid;
+}
+```
+
+# Reset
+
+- It makes the default padding and margin to 0.
+
+```ruby
+*{
+    margin: 0;
+    padding: 0;
+}
+```
+
 
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
 
@@ -307,6 +372,8 @@ keywords For Search: border-style css mdn, css default values, devdocs.io/css/he
  - colorhunt.co (For Color picker)
  - https://emojipedia.org/ (for emoji icons based on platform)
  - https://www.favicon.cc/ (for generating fav.icon)
+ - http://pesticide.io/ -> Installation -> chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow  Access to file URLs
+ 
   
  
 
