@@ -109,41 +109,194 @@ body {
 }
 ```
 
- # CSS Syntax:
- 
- selector { property : value; }
- 
- selector -> who, property -> what, value -> How
- 
- # CSS Selectors:
- 
- Example:
- 
-   - img class="background1" src="images/android.png" alt="Image Not Loading"
-   
-  .background1{
-   background-color: blue;
-      }
-      
- # ID Selectors:
- 
- Example:
- 
-  - img id="background1" src="images/android.png" alt="Image Not Loading"
-   
-  #background1{
-   background-color: blue;
-      }
-      
- # Pseudo Class:
- 
- Example:
- 
-  - img:hover{
+ # CSS Selectors
+
+```ruby
+a { background-color: yellow; }
+```
+__where,__
+- ```a```-> Selector
+- ```{``` -> declaration start
+- ```background-color``` -> property
+- ```:``` -> Property/Value Seperator
+- ```yellow``` -> Value
+- ```;``` -> Declaration seperator
+- ```}``` -> Declaration end
+
+# Colors In CSS
+
+- Color Names
+
+```ruby
+body {
     background-color: blue;
-    }
- 
- 
+}
+```
+- HTML5 Color Names
+
+```ruby
+body {
+    background-color: honeydew
+}
+```
+- Hexa decimal
+
+```ruby
+body {
+    background-color: #00ff00;
+}
+```
+- RGB
+
+```ruby
+body {
+    background-color: rgb(0,0,255);
+}
+```
+
+# class attribute
+
+- The Class attribute allows us to differentiate all of our different HTML elements.
+
+__In index.html__
+
+```ruby
+<h1 class="heading1">HTML</h1>
+<h1 class="heading2">CSS</h1>
+```
+
+__In style.css__
+```ruby
+.heading1{
+    color: lawngreen;
+}
+
+.heading2{
+    color: rgb(61, 99, 24);
+}
+```
+
+# id attribute
+
+- The id attribute specifies a unique id for an HTML element (the value must be unique within the HTML document).
+
+__In index.html__
+
+```ruby
+<h1 id="heading1">HTML</h1>
+<h1 id="heading2">CSS</h1>
+```
+
+__In style.css__
+```ruby
+#heading1{
+    color: lawngreen;
+}
+
+#heading2{
+    color: rgb(61, 99, 24);
+}
+```
+
+# class vs id 
+
+- use class when you want to apply the same style to a group of related items.
+- In class, We can also use two classes to the same HTML element.
+__In index.html,__
+
+```ruby
+<h1 class="heading1 heading1bg">HTML</h1>
+```
+__In style.css,__
+
+```ruby
+.heading1{
+    color: lawngreen;
+}
+
+.heading1bg{
+    background-color: lightcoral;
+}
+```
+- use id  when you want to apply the specific style to a single element on your page.
+- In id, We cannot use two id to the same HTML element.
+
+# Pseudo class
+
+- A pseudo-class is used to define a special state of an element.
+
+```ruby
+selector:pseudo-class {
+  property:value;
+}
+```
+
+__In index.html,__
+
+```ruby
+<h1 class="heading1 heading1bg">HTML</h1>
+```
+
+__In styles.css__
+
+```ruby
+h1:hover{
+    color: lightcoral;
+}
+```
+
+# Pseudo element
+
+- pseudo-element is used to style specified parts of an element
+
+__In index.html,__
+
+```ruby
+<p>
+ Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam placeat,
+ quasi molestias nobis voluptate temporibus officiis dicta, quas dolorem
+ ducimus non laboriosam. Eius, perspiciatis aliquid. Facilis maiores
+ ullam accusamus quasi.
+</p>
+```
+
+__In styles.css__
+
+```ruby
+p::first-line {
+    color: #ff0000;
+    font-variant: small-caps;
+  }
+```
+
+# Favicons
+
+- A favicon (pronounced "fave-icon") is a small, iconic image that represents your website. 
+- Favicons are most often found in the address bar of your web browser, but they can also be used in lists of bookmarks in web browsers and feed aggregators.
+- Recommened format type -> ICO format which supports all types of browsers.
+
+```ruby
+<link rel="icon" href="favicon.ico">
+```
+
+```ruby
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/styles.css" />
+    <link rel="icon" href="favicon.ico">
+  </head>
+  <body>
+    <div>
+      <h1 class="heading1 heading1bg">HTML</h1>
+    </div>
+  </body>
+</html>
+```
+
  Installation: chrome webstore -> Search Pesticides -> add to extensions -> Pesticides extension -> Allow Access to file URLs
 
 keywords For Search: border-style css mdn, css default values, devdocs.io/css/height, mdn -> https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Keyword_index
@@ -152,7 +305,8 @@ keywords For Search: border-style css mdn, css default values, devdocs.io/css/he
  # Tools Reference
  
  - colorhunt.co (For Color picker)
- - https://emojipedia.org/ (for emoji icons based on platform)  
+ - https://emojipedia.org/ (for emoji icons based on platform)
+ - https://www.favicon.cc/ (for generating fav.icon)
   
  
 
