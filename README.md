@@ -81,7 +81,7 @@
  
  - Similar to Internal CSS but have to seperate by linking an external.css file.
  
- __In index.html,__
+ __In index.html__
  ```ruby
  <!DOCTYPE html>
 <html>
@@ -202,12 +202,12 @@ __In style.css__
 
 - use class when you want to apply the same style to a group of related items.
 - In class, We can also use two classes to the same HTML element.
-__In index.html,__
+__In index.html__
 
 ```ruby
 <h1 class="heading1 heading1bg">HTML</h1>
 ```
-__In style.css,__
+__In style.css__
 
 ```ruby
 .heading1{
@@ -231,7 +231,7 @@ selector:pseudo-class {
 }
 ```
 
-__In index.html,__
+__In index.html__
 
 ```ruby
 <h1 class="heading1 heading1bg">HTML</h1>
@@ -249,7 +249,7 @@ h1:hover{
 
 - pseudo-element is used to style specified parts of an element
 
-__In index.html,__
+__In index.html__
 
 ```ruby
 <p>
@@ -298,6 +298,8 @@ p::first-line {
 ```
 
 # Box Model
+
+![box_model](https://user-images.githubusercontent.com/48873155/76243744-d2b8dd80-625e-11ea-82fa-9a33d0eef32e.png)
 
 # Some Shorthand Properties
 
