@@ -272,7 +272,7 @@ p::first-line {
 
 # Favicons
 
-- A favicon (pronounced "fave-icon") is a small, iconic image that represents your website. 
+- A favicon (pronounced "fav-icon") is a small, iconic image that represents your website. 
 - Favicons are most often found in the address bar of your web browser, but they can also be used in lists of bookmarks in web browsers and feed aggregators.
 - Recommened format type -> ICO format which supports all types of browsers.
 
@@ -366,16 +366,10 @@ body {
 }
 ```
 
-# Reference
-
-- https://www.favicon.cc/
-
-
-# Div
+# div
 
 - The div is a special element that allows us to divide our content up on our website so that we can structure each div seperately.
-- In other words, The div stands for content division element and it basically allows you to split up or
-boxes so that you can affect the layout of each box seperately.
+- In other words, The div stands for content division element and it basically allows you to split up or boxes so that you can affect the layout of each box seperately.
 ```ruby
 <div>
  <h1>Android</h1>
