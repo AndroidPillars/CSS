@@ -2,7 +2,7 @@
 
 | S.No | Content |
 | --------	 | ------------ |
-| 1 | [HTML Drawbacks](HTML Drawbacks) |
+| 1 | [HTML Drawbacks](README.md#html-drawbacks) |
 | 2 | [CSS](README.md#css-1) |
 | 3 | [Web Browser](README.md#web-browser) |
 | 4 | [HTML Drawbacks](HTML Drawbacks) |
