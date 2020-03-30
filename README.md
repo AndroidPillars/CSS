@@ -5,12 +5,12 @@
 | 1 | [HTML Drawbacks](README.md#html-drawbacks) |
 | 2 | [CSS](README.md#css-1) |
 | 3 | [Web Browser](README.md#web-browser) |
-| 4 | [HTML Drawbacks](HTML Drawbacks) |
-| 5 | [HTML Drawbacks](HTML Drawbacks) |
-| 6 | [HTML Drawbacks](HTML Drawbacks) |
-| 7 | [HTML Drawbacks](HTML Drawbacks) |
-| 8 | [HTML Drawbacks](HTML Drawbacks) |
-| 9 | [HTML Drawbacks](HTML Drawbacks) |
+| 4 | [Text Editor](README.md#text-editor) |
+| 5 | [IDE](README.md#ide) |
+| 6 | [Inline CSS](README.md#inline-css) |
+| 7 | [Internal CSS](README.md#internal-css) |
+| 8 | [External CSS](README.md#external-css) |
+| 9 | [CSS Selectors](README.md#css-selectors) |
 | 10 | [HTML Drawbacks](HTML Drawbacks) |
 | 11 | [HTML Drawbacks](HTML Drawbacks) |
 | 12 | [HTML Drawbacks](HTML Drawbacks) |
@@ -60,7 +60,7 @@
 - atom.io
 - https://code.visualstudio.com/
 
-# Inline CSS: 
+# Inline CSS  
 
 - Directly in the html element.
 - It's not the recommended way.
@@ -68,7 +68,7 @@
 <body style= "background-color: blue;">
 ```
 
-# Internal CSS:
+# Internal CSS  
 
 - Using ```<style>``` tags with in a single document.
 
@@ -95,7 +95,7 @@
 </html>
 ```
       
- # External CSS:
+ # External CSS  
  
  - Similar to Internal CSS but have to seperate by linking an external.css file.
  
