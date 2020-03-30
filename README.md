@@ -320,6 +320,9 @@ p::first-line {
 
 # Box Model
 
+- All HTML elements can be considered as boxes. 
+- In CSS, the term "box model" is used when talking about design and layout.
+
 ![box_model](https://user-images.githubusercontent.com/48873155/76243744-d2b8dd80-625e-11ea-82fa-9a33d0eef32e.png)
 
 # Some Shorthand Properties
