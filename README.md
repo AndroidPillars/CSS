@@ -11,11 +11,11 @@
 | 7 | [Internal CSS](README.md#internal-css) |
 | 8 | [External CSS](README.md#external-css) |
 | 9 | [CSS Selectors](README.md#css-selectors) |
-| 10 | [HTML Drawbacks](HTML Drawbacks) |
-| 11 | [HTML Drawbacks](HTML Drawbacks) |
-| 12 | [HTML Drawbacks](HTML Drawbacks) |
-| 13 | [HTML Drawbacks](HTML Drawbacks) |
-| 14 | [HTML Drawbacks](HTML Drawbacks) |
+| 10 | [Colors In CSS](README.md#colors-in-css) |
+| 11 | [class attribute](README.md#class-attribute) |
+| 12 | [id attribute](README.md#id-attribute) |
+| 13 | [class vs id](README.md#class-vs-id) |
+| 14 | [Pseudo class](README.md#pseudo-class) |
 
 
 # HTML Drawbacks
