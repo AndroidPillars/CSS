@@ -16,6 +16,8 @@
 | 12 | [id attribute](README.md#id-attribute) |
 | 13 | [class vs id](README.md#class-vs-id) |
 | 14 | [Pseudo class](README.md#pseudo-class) |
+| 15 | [Pseudo element](README.md#pseudo-element) |
+| 16 | [Favicons](README.md#favicons) |
 
 
 # HTML Drawbacks
